@@ -1,6 +1,12 @@
 {
-  "cenas": [
-    {"nome": "Floresta", "arquivo": "floresta"},
-    {"nome": "Caverna", "arquivo": "caverna"}
-  ]
+    "cenas": [
+        {
+            "nome": "Floresta",
+            "arquivo": "floresta"
+        },
+        {
+            "nome": "Caverna",
+            "arquivo": "caverna"
+        }
+    ]
 }
