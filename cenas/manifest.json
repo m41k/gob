@@ -1,9 +1,6 @@
 {
-    "cenas": [
-        "jerimu",
-        "micos",
-        "pafrica",
-        "sonic",
-        "urso"
-    ]
+  "cenas": [
+    {"nome": "Floresta", "arquivo": "floresta"},
+    {"nome": "Caverna", "arquivo": "caverna"}
+  ]
 }
